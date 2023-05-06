@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raghavendra;
 - 👀 I’m interested in using computational tools for sustainable energy solutions;
 - I’m currently learning to perfrom <em>ab initio</em> molecular dynamics;
-- I’m working on building a website: <a href="https://literallyscience.com">literallyscience.com</a>;
+- I’m working on building a website: <a href="https://literallyscience.nl">literallyscience.nl</a>;
 - 📫 How to reach me sweetstark1@gmail.com.
 
 <!---
